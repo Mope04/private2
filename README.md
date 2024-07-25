@@ -1,3 +1,5 @@
+# NOTE: Not all this information is accurate!!!!!! Not everything on site is uhhh written out properly :pray:
+
 # freaky-Flix
 [![freaky-Flix Image](.github/freaky-Flix.png)](https://docs.freaky-flix.lol)  
 
