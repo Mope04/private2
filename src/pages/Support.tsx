@@ -98,7 +98,7 @@ export function SupportPage() {
                 window.open("https://sussy-code.github.io/docs", "_blank")
               }
             >
-              Sudo-Flix Docs
+              freaky-Flix Docs
             </Button>
           </div>
         </Paragraph>
@@ -106,7 +106,7 @@ export function SupportPage() {
           items={[
             <Item title={t("support.q1.title")}>
               <Trans i18nKey="support.q1.body">
-                <MwLink to="https://docs.sudo-flix.lol/links/discord" />
+                <MwLink to="https://docs.freaky-flix.lol/links/discord" />
               </Trans>
             </Item>,
             <Item title={t("support.q2.title")}>
