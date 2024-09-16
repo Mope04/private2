@@ -54,4 +54,4 @@ git push  # Push to YOUR repository
 
 
 ## Contact Me
-**Email:** *[dev@freaky-flix.lol](mailto:dev@freaky-flix.lol)* 
+**Email:** *[mopoppo04@gmail.com)](mailto:mopoppo04@gmail.com)* 
